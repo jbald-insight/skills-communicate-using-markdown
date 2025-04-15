@@ -12,3 +12,10 @@
 ``` javascript
 var myVar = "Hello, world!";
 ``` 
+
+## Task List: 
+- [x] Add a header
+- [x] Add an image
+- [x] Add a code block
+- [x] Add a task list
+- [ ] Add more stuff
